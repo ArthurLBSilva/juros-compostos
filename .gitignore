@@ -1,0 +1,14 @@
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar pastas ou arquivos de configuração do editor
+.vscode/
+.idea/
+
+# Ignorar arquivos de saída de compilação ou execução (se aplicável)
+dist/
+build/
