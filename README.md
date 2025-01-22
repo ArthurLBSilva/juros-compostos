@@ -29,3 +29,15 @@ Este projeto é um sistema simples para calcular juros compostos. Ele foi desenv
 1. Clone este repositório:
    ```bash
    git clone https://github.com/ArthurLBSilva/juros-compostos.git
+
+2. Navegue até a pasta do projeto:
+      ```bash
+   cd juros-compostos
+
+3. Execute o código:
+      ```bash
+   node src/calculo.js
+      
+4. Teste o sistema:
+      ```bash
+   node tests/test_calculo.js
